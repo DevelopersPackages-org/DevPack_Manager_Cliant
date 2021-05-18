@@ -23,6 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_launcher_icons: ^0.8.1
   firebase_core: ^0.5.3
   firebase_database: ^4.4.0
 
@@ -76,3 +77,9 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+flutter_icons:
+  android: true 
+  ios: true
+  image_path: "lib/assets/devpack_logo.png"
+  
