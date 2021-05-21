@@ -20,3 +20,7 @@ doc/api/
 *.js.deps
 *.js.map
 **/ios/**/GoogleService-Info.plist
+
+#Files and directories created by Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
