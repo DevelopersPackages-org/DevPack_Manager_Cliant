@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561388462254",
+    "firebase_url": "https://devpack-manager-cliant-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "devpack-manager-cliant",
+    "storage_bucket": "devpack-manager-cliant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561388462254:android:7975101513cddb18344d3f",
+        "android_client_info": {
+          "package_name": "org.DevPack.DevPack_Manager_Cliant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561388462254-8qd71sfkf280v2el952g1n7indum9u7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2bfpmxQWXp0y5Is5t_i2PkUFfXChslk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561388462254-8qd71sfkf280v2el952g1n7indum9u7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561388462254-u9818k3hu4tsp4dv7rj5rna6lfiltreg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.dev-pack.DevPack-Manager-Cliant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
